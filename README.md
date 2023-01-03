@@ -6,7 +6,7 @@ Alexandria is accessible [here](https://tryalexandria.com/).
 
 # Running Alexandria locally for development
 
-1. Follow the instructions here [https://docs.docker.com/get-docker/] to install Docker Desktop
+1. Follow the instructions [here](https://docs.docker.com/get-docker/) to install Docker Desktop
 2. Clone this repo and the [frontend](https://github.com/alexandria-reader/frontend)
 3. Run `npm install` to install the dependencies
 4. Add a .`env` file to the root directory with the values from `src/model/.env.sample`
